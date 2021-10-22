@@ -1,6 +1,9 @@
 # Guardia
 <b>Guardia, the typeface</b><br>
 <b>Last edit: October 2021</b><br>
+
+<b>Use: SIL Open Font License</b><br>
+<i>No NFTs, no crypto-related projects</i><br>
    
 Guardia is a typeface inspired by the logotype of the Spanish National Police. Making this typeface is embedded in the author’s interest in researching the typographic imaginary; on how we can understand type as a technical and ideological tool influencing social and cultural conditions, particularly through the links between cultural geography and the graphic design fields. <br>
 
