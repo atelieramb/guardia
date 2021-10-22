@@ -11,6 +11,6 @@ We can perhaps assume that the designers in charge of the visual identity of the
 We believe such a process should be approached critically and be (easily) re-appropriated and reused. This is the main motivation on why Guardia is released for everyone on a SIL Open Font Licence (with some exceptions*).</div>
 
 <b>Use: SIL Open Font License</b><br>
-<i>*Strictly no NFTs, no crypto-related projects<, no law enforcement/i><br>
+<i>*Strictly no NFTs, no crypto-related projects, no law enforcement</i><br>
    
      
